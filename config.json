@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "hatdagboni@gmail.com",
-    "password": "botkasito",
+    "email": "suzurancraft09@gmail.com",
+    "password": "virayviray9",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -16,7 +16,7 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [100093480975522],
+  "adminBot": [],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
